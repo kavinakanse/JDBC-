@@ -43,7 +43,6 @@ public class Car {
 		System.out.println("Data is Updated Successfully.");
 		
 		//close all the connection
-		s.close();
 		c.close();
 		
 	}
